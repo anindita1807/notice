@@ -1,0 +1,15 @@
+{
+  "name": "noticeboard-api",
+  "version": "1.0.0",
+  "description": "Tiny Express API that serves school notices. Demo repo for RepoVitals Projects.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.17.1",
+    "lodash": "4.17.20"
+  },
+  "license": "MIT"
+}
